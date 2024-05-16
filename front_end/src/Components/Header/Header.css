@@ -1,0 +1,27 @@
+.header{
+    width:100%;
+    min-height:100vh;
+    background:linear-gradient(rgba(166, 162, 197, 0.7),rgba(109, 106, 134, 0.7)), url(../../assets/img.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-text{
+    text-align: center;
+    width:800px;
+}
+
+.main-text p{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.main-text p{
+    max-width: 700px;
+    margin: 10px auto 20px;
+    line-height: 1.4;
+}
